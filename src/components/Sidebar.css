@@ -1,0 +1,30 @@
+.sidebar-containter{
+    height: 100vh;
+    background-image:linear-gradient(to right,#9c18f5,#7402cb);
+    height: 140vh;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.MuiSvgIcon-root{
+    display: flex;
+    margin-top: 11vh;
+    margin-left: 3.5vw;
+    color:#ffff
+}
+.MuiSvgIcon-root:hover{
+   cursor: pointer;
+   background-color: #ffff;
+   border-top-left-radius: 50px;
+   border-bottom-left-radius: 50px;
+   padding: 45px;
+   color:#7402cb;
+   margin:12px;
+   
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}

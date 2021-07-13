@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.profile-continer{
+    background-color: #ffff;
+    height: 120vh;
+    margin-right:30px!important;
+    font-family: 'Montserrat', sans-serif;
+}
+#logo{
+    height: 37px;
+    width:125px;
+    margin-left: 20px;
+}
+.header-logo{
+    background-color:#f0f1f6;
+}
+.profile-coverPicture{
+    margin-top: 20px;
+    border: 1px solid #7a05cf;
+    height: 28vh;
+    background-image: linear-gradient(to right,#7a05cf,#7a05cf);
+    border-radius:5px;
+}
+
+.profile-picture{
+    border: 1px solid #860cdd;
+    background-color:#860cdd;
+    height: 19vh;
+    width:16%;
+    margin-top: 15vh;
+    margin-left: 25px;
+    border-radius: 50%;
+}
+.follower-count{
+    margin-left: 32vw;
+    font-size: 17px;
+    color: #671ca0;
+    font-weight:bolder;
+}
+.follower{
+    margin-left: 30vw;
+    font-size: 17px;
+    color: #671ca0;
+    font-weight:800;
+}
+.profile-follower>div{
+    margin-top:20px;
+}
+.profile-following>div{
+    margin-top: 3vh;
+}
+
+.following{
+    margin-left: 38vw;
+    font-size: 17px;
+    color: #671ca0;
+    font-weight:800;
+    font-size: 15px;
+}
+
+.following-count {
+    margin-top: -7vw;
+    margin-left: 40vw;
+    font-size: 20px;
+    color: #671ca0;
+    font-weight:bolder;
+    font-size: 17px;
+    
+
+}
+.Username-container{
+    margin-top: -6vw;
+    color:#7e7e7e;
+    font-size: 17px;
+}
+.profile-bio>p{
+    color:#7e7e7e;
+    margin-top: -2vh;
+    margin-left: 20px;
+}
+#zillionuserid{
+    font-weight: bold;
+    
+}
+.profile-locationdate{
+   margin-top: -8vw;
+   margin-left: 20px;
+   font-weight: 900;
+   color:#b7c4c3;
+}
+#joindate{
+    margin-top: -8vw;
+}
+.folower-count{
+    margin-top: -1vw;
+    margin-left: 20px;
+    color:#b7c4c3;
+}
+#zdtitle{
+    margin-left: 20px;
+    font-weight: bold;
+    color:black;
+}
+.profile-image1{
+    border: 1px solid #671ca0;
+    height: 25vh;
+    border-radius: 10px;
+    background-color: #7a05cf;
+}
+.profile-image{
+    border: 1px solid #671ca0;
+    height: 23vh;
+}
+#profile-coverpic{
+    display: none;
+}

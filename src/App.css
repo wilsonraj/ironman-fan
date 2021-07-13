@@ -1,0 +1,16 @@
+
+.pagecontainer{
+    position: relative;
+}
+.profile{
+    position: absolute;
+    right: 8vw
+}
+.wrapper{
+    position: absolute;
+    top:20px;
+
+}
+.App{
+    border-radius: 10px;
+}
